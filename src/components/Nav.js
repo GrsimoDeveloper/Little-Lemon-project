@@ -1,4 +1,4 @@
-import logo from '../logo.png';
+import logo from '../images/logo/logo.png';
 
 function Nav() {
   return (
